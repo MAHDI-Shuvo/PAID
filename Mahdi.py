@@ -163,7 +163,6 @@ def yayanxd():
     os.system('clear')
     print logo2
     print '\n %s[%s1%s] START CLONING' % (P, O, P)
-    print ' %s[%s2%s] UPDATE % (P, O, P)
     pilih()
 
 
